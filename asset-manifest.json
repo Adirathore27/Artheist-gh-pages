@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d65a89e7.chunk.css",
+    "main.js": "/static/js/main.ac71444b.chunk.js",
+    "main.js.map": "/static/js/main.ac71444b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0803a3d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0803a3d.js.map",
+    "static/js/2.2505998b.chunk.js": "/static/js/2.2505998b.chunk.js",
+    "static/js/2.2505998b.chunk.js.map": "/static/js/2.2505998b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7d2f82f2a0094908bdcd8d78575c3129.js": "/precache-manifest.7d2f82f2a0094908bdcd8d78575c3129.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d65a89e7.chunk.css.map": "/static/css/main.d65a89e7.chunk.css.map",
+    "static/js/2.2505998b.chunk.js.LICENSE.txt": "/static/js/2.2505998b.chunk.js.LICENSE.txt",
+    "static/media/aditya2.jpeg": "/static/media/aditya2.8af7687e.jpeg",
+    "static/media/arpit.jpg": "/static/media/arpit.cffd398d.jpg",
+    "static/media/art.svg": "/static/media/art.588ba319.svg",
+    "static/media/artHeist_logo.png": "/static/media/artHeist_logo.2ea34b77.png",
+    "static/media/ashu3.jpg": "/static/media/ashu3.b45c90d4.jpg",
+    "static/media/bg11.jpeg": "/static/media/bg11.645a4f88.jpeg",
+    "static/media/curtainL.png": "/static/media/curtainL.5db6559f.png",
+    "static/media/curtainR.png": "/static/media/curtainR.07f173cf.png",
+    "static/media/dance.jpg": "/static/media/dance.9aeef801.jpg",
+    "static/media/fashion.svg": "/static/media/fashion.0ba8533e.svg",
+    "static/media/gymnast.svg": "/static/media/gymnast.3639e7ef.svg",
+    "static/media/login.png": "/static/media/login.c718bc57.png",
+    "static/media/me2.jpeg": "/static/media/me2.3a447d98.jpeg",
+    "static/media/up-broken-line-arrow.svg": "/static/media/up-broken-line-arrow.f432d481.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0803a3d.js",
+    "static/js/2.2505998b.chunk.js",
+    "static/css/main.d65a89e7.chunk.css",
+    "static/js/main.ac71444b.chunk.js"
+  ]
+}
